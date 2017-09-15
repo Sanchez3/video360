@@ -1,6 +1,6 @@
-#360°全景视频
+# 360°全景视频
 
-##背景
+## 背景
 
 现在网络上一大堆VR全景视频，微博全景图片，这些统统不是VR
 
@@ -15,8 +15,8 @@
 
 ![compare](https://github.com/Sanchez3/video360/blob/master/assets/img/compare.gif)
 
-##现状
-
+## 现状
+ 
 随着移动设备不断更新换代，全景视频已经能兼容绝大多数主流手机，体验良好（ios上顺畅，Android上微卡可看）。
 当然在全景视频的基础上再加上stero 3d（threejs的插件 StereoEffect.js），创造出虚拟现实的分屏效果，使用vr眼镜可以实现视觉上的VR体验。
 stereo 3d demo
@@ -24,7 +24,7 @@ stereo 3d demo
 
 
 
-##研究内容
+## 研究内容
 
 - aframe插件 虽然chrome开发者工具 模拟手机可用，但是实际上微信or手机原生浏览器并不可用。aframe 入门简单，方便使用。弃用
 
