@@ -13,7 +13,7 @@
 
 所以目前业内并没有一个没有标准意义的VR视频，再加上VR受限于设备，不仅仅是一个显示屏（眼镜设备），还需要能够进行深度互动的设备（手柄等）
 
-![compare](https://github.com/Sanchez3/video360/blob/master/assets/img/compare.gif)
+![compare](https://github.com/Sanchez3/video360/blob/master/src/assets/img/compare.gif)
 
 ## 现状
  
